@@ -1,0 +1,23 @@
+name: momepy_dev
+channels:
+  - conda-forge
+dependencies:
+  - clustergram
+  - contextily
+  - fast_hdbscan
+  - geopandas
+  - geopy
+  - jupyterlab
+  - libpysal
+  - mapclassify
+  - neatnet
+  - networkx
+  - osmnx
+  - overturemaps
+  - pre-commit
+  - pysal
+  - pytest
+  - rioxarray
+  - ruff
+  - tqdm
+  - xvec
