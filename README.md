@@ -5,3 +5,5 @@ To setup the enviroment and run the code:
 5. > jupyter lab
 
 You can replace `micromamba` with conda/mamba.
+
+The slides are available at: https://docs.google.com/presentation/d/1h01FlzPmDZLsAcR0ZtTtydcs1_1uS4eZlA_UvGFGWuo/
