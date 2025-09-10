@@ -1,4 +1,4 @@
-name: momepy_dev
+name: space_east
 channels:
   - conda-forge
 dependencies:
